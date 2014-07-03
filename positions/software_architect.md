@@ -15,6 +15,7 @@
 - Orientação a objetos
 - Noções de Arquitetura de Software
 - Modelagem de Dados
+- Visão Analítica
 - Excelente raciocínio lógico e capacidade para resolução de problemas
 - PHP 5
 - Javascript
@@ -23,6 +24,8 @@
 - Boas práticas
 - Team play
 - Inglês
+- Memcached
+- Desenvolvimento Ágil
 
 
 ### DESEJÁVEL
@@ -34,9 +37,11 @@
 - BDD
 - HHVM
 - SCRUM
-- Desenvolvimento Ágil
 - AngularJS
 - Silex
+- Redis
+- RabitMQ
+- Gearman
 - Gestão de pessoas e pequenos projetos
 
 ### BENEFÍCIOS (CLT e Outros)
