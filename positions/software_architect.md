@@ -13,15 +13,21 @@
 ### REQUISITOS
 - TDD (de verdade)
 - Orientação a objetos
+- Noções de Arquitetura de Software
+- Modelagem de Dados
+- Excelente raciocínio lógico e capacidade para resolução de problemas
+- PHP 5
+- Javascript
 - Padrões de projeto em geral
 - Restful applications
-- Symfony2
-- Doctrine2
 - Boas práticas
 - Team play
+- Inglês
 
 
 ### DESEJÁVEL
+- Symfony2
+- Doctrine2
 - Sockets
 - DDD
 - Phalcon php
@@ -29,10 +35,9 @@
 - HHVM
 - SCRUM
 - Desenvolvimento Ágil
-- Noções de Arquitetura de Software
 - AngularJS
 - Silex
-- Inglês
+- Gestão de pessoas e pequenos projetos
 
 ### BENEFÍCIOS (CLT e Outros)
 - Vale-transporte
