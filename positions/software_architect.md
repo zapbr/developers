@@ -26,6 +26,7 @@
 - Inglês
 - Memcached
 - Desenvolvimento Ágil
+- 6 anos ou mais de experiência
 
 
 ### DESEJÁVEL
