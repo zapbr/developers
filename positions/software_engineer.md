@@ -44,7 +44,7 @@
 
 ### Local
 
-Av. Queiroz Filho, 1700 - Vila Hamburguesa
+Av. Queiroz Filho, 1700 - Vila Hamburguesa - São Paulo, SP
 
 Em frente à estação de metro Vila Lobos-Jaguaré e Parque Vila Lobos. O local é bem agradável e super acolhedor.
 
