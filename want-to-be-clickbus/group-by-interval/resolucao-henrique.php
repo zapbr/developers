@@ -103,7 +103,7 @@ Class GroupInterval
 			),
 			array(
 				'range' => 15,
-				'number_set' => array(10, 1, A,  14, 99, 133, 19, 20, 117, 22, 93,  120, 131)
+				'number_set' => array(10, 1, "A",  14, 99, 133, 19, 20, 117, 22, 93,  120, 131)
 			),
 			array(
 				'range' => null,
